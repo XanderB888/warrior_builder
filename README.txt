@@ -33,5 +33,5 @@ Steps:
 
 -Combining the different parts of the program so that the messages are randomly selected every time the program runs.
 
-6.
+6.Upload files to GitHub: *Completed*
 
