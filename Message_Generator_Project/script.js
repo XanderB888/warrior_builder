@@ -21,7 +21,7 @@ let yourWarrior = []
 for (let x in warriorBuild) {
     let warriorOptions = generateRandomNumber(warriorBuild[x].length) 
 
-    //use the object's properties to customize the message being added to personalWisdom  
+    //use the object's properties to customize the message being added to yourWarrior  
     switch (x) {
         case 'warriorType': 
             yourWarrior.push(`You are a "${warriorBuild[x][warriorOptions]}".`)
